@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kouadio Désir / Kouassi Jean network</string>
+<string name="reset_network">Reset network</string>
+<string name="save_network">Save a network</string>
+<string name="load_network">Load a network</string>
+<string name="delete_connection">Delete a connection</string>
+<string name="modify_connectio">Modify connection</string>
+<string name="add_object">Add an object</string>
+<string name= "add_connection">Add a connection</string>
+<string name="modify_object">Modify object</string>
+<string name="delete_object">Delete object</string>
+<string name="name_node">Node name</string>
+<string name="cancel">Cancel</string>
+<string name="connection_label">Connection label</string>
+<string name="connection_etiquette">Connection label</string>
+<string name="file_name">File name</string>
+<string name="colors">Colour</string>
+<string name="delete_options">Delete</string>
+<string name="modify_etiquette">Modify label</string>
+<string name="thickness">Thickness</string>
+</resources>

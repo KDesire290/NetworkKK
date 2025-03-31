@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Network Kouadio Desire / Kouassi Jean</string>
+    <string name="reset_network">Réinitialiser le réseau</string>
+    <string name="save_network">Sauvegarder un réseau</string>
+    <string name="load_network">Charger un réseau</string>
+    <string name="delete_connection">Supprimer une connexion</string>
+    <string name="modify_connectio">Modifier connection</string>
+    <string name="add_object">Ajouter un objet</string>
+    <string name="add_connection">Ajouter une connexion</string>
+    <string name="modify_object">Modifier objet</string>
+    <string name="delete_object">Supprimer objet</string>
+    <string name="name_node">Nom du nœud</string>
+    <string name="cancel">Annuler</string>
+    <string name="connection_label">Label de la connexion</string>
+    <string name="connection_etiquette">Étiquette de la connexion</string>
+    <string name="file_name">Nom du fichier</string>
+    <string name="colors">Couleur</string>
+    <string name="delete_options">Supprimer</string>
+    <string name="modify_etiquette">Modifier étiquette</string>
+    <string name="thickness">Épaisseur</string>
+</resources>

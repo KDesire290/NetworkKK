@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_edit_connection"
+        android:title="@string/modify_connectio"
+        android:icon="@android:drawable/ic_menu_edit"/>
+    <item
+        android:id="@+id/menu_delete_connection"
+        android:title="@string/delete_connection"
+        android:icon="@android:drawable/ic_menu_delete"/>
+</menu>

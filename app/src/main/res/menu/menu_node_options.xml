@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_delete_node"
+        android:title="Supprimer"/>
+    <item android:id="@+id/menu_edit_node"
+        android:title="Modifier étiquette"/>
+
+    <item android:title="@string/colors">
+        <menu>
+            <item android:id="@+id/menu_color_red"
+                android:title="Rouge"/>
+            <item android:id="@+id/menu_color_green"
+                android:title="Vert"/>
+            <item android:id="@+id/menu_color_blue"
+                android:title="Bleu"/>
+            <item android:id="@+id/menu_color_orange"
+                android:title="Orange"/>
+            <item android:id="@+id/menu_color_cyan"
+                android:title="Cyan"/>
+            <item android:id="@+id/menu_color_magenta"
+                android:title="Magenta"/>
+            <item android:id="@+id/menu_color_black"
+                android:title="Noir"/>
+        </menu>
+    </item>
+</menu>
